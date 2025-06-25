@@ -1,0 +1,29 @@
+From: Netflix Support <support@netflx-secure.com>
+To: xyzname@gmail.com
+Subject: Urgent: Account Suspended Due to Billing Failure
+
+Dear user,
+
+We are unable to process your latest Netflix payment. Your subscription has been suspended. Please verify your billing information immediately to restore access.
+
+[Verify Your Billing Information](http://netflix-account-verify.com/secure)
+
+If we do not receive confirmation within 24 hours, your account will be permanently disabled.
+
+Thank you,
+Netflix Billing Department
+
+
+Phishing Analysis Report:
+Subject: Netflix Account Locked
+Sender: support@netflx-secure.com
+Suspicious Link: https://netflix-billing-verification.com/secure
+
+Phishing Indicators:
+- Fake sender domain - netflx-secure.com
+- Link does not point to real Netflix site
+- Urgent language ("account will be permanently closed")
+- Generic greeting ("Dear user")
+- Spelling issues
+
+This email is a phishing attack
